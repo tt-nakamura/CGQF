@@ -1,1 +1,1 @@
-# CGQF
+Class Groups of Quadratic Fields
